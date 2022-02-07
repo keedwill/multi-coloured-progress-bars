@@ -1,0 +1,91 @@
+#myProgress {
+    position: relative;
+    width: 100%;
+    height: 30px;
+    background-color: #ebebeb;
+    margin-bottom:2%;
+    border-radius: 25px;
+    
+  }
+  
+  #first {
+    padding-right:1%;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+   
+    background: repeating-linear-gradient(
+      -35deg,
+      #c6ea8a,
+      #c6ea8a 2px,
+      #e0ffa4 2px,
+      #e0ffa4 5px
+    );
+    border-radius: 25px;
+  }
+  #second {
+    padding-right:1%;
+    position: absolute;
+    width: 50%;
+     height: 100%;
+    
+    background: repeating-linear-gradient(
+      -35deg,
+      #fb796b,
+      #fb796b 2px,
+      #ff9385 2px,
+      #ff9385 5px
+    );
+    border-radius: 25px;
+  }
+  #third {
+    padding-right:1%;
+    position: absolute;
+    width: 50%;
+   height: 100%;
+    background-color: #FFFFFF;
+    background: repeating-linear-gradient(
+      -35deg,
+      #FFFFFF,
+      #FFFFFF 2px,
+      #FFFFFF 2px,
+      #FFFFFF 5px
+    );
+    border-radius: 25px;
+  }
+  #fourth {
+    padding-right:1%;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+   
+     background: repeating-linear-gradient(
+      -35deg,
+      #87c4f0,
+      #87c4f0 2px,
+      #a1deff 2px,
+      #a1deff 5px
+    );
+    border-radius: 25px;
+  }
+  #fifth {
+    padding-right:1%;
+    position: absolute;
+    width: 50%;
+     height: 100%;
+    background-color: #fed772;
+    background: repeating-linear-gradient(
+      -35deg,
+      #fed772,
+      #fed772 2px,
+      #fff18c 2px,
+      #fff18c 5px
+    );
+    border-radius: 25px;
+  }
+  
+  #label {
+    text-align: right;
+    line-height: 30px;
+    color: black;
+  }
